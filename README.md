@@ -1,18 +1,16 @@
 # Pjango-SQLite(Developing)
 
 
-SQLite support for [Pjango](https://github.com/enums/pjango).
+适用于 [Pjango](https://github.com/enums/pjango) 的 SQLite 数据库组件。
 
-## Usage
+## 使用方法
 
-- Need [SQLite](http://sqlite.org).
+开发中。
 
-Also see [Perfect-SQLite](https://github.com/PerfectlySoft/Perfect-SQLite).
+## 更多组件
 
-## More Component
+请参考: [https://github.com/enums/pjango](https://github.com/enums/pjango)
 
-See: [https://github.com/enums/pjango](https://github.com/enums/pjango)
+## 联系我
 
-## Contact
-
-Mail me: [enum@enumsblog.com](enum@enumsblog.com)
+发邮件给我: [enum@enumsblog.com](mailto:enum@enumsblog.com)
